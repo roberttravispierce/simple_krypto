@@ -4,3 +4,5 @@ ruby '2.2.3'
 
 # Specify your gem's dependencies in simple_krypto.gemspec
 gemspec
+
+gem 'pry'
